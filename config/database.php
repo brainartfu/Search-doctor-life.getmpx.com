@@ -64,10 +64,10 @@ return [
         ],
         'wordpress' => [ // for WordPress database (used by Corcel)
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => 'gtxm1006.siteground.biz',
             'database'  => 'dbojqublqyvjlo1',
-            'username'  => 'root',
-            'password'  => '',
+            'username'  => 'mpxlife@getmpx.com',
+            'password'  => 'MPXLife123!',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => 'oun_',
